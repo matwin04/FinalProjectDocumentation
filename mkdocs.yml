@@ -1,0 +1,6 @@
+site_name: MAMA LLC Documentation
+nav:
+  - Home: index.md
+  - About: about.md
+  - Documentation: documentation.md
+  - umlDiagram: umlDiagram.md
